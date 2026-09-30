@@ -5,6 +5,10 @@ To begin, search IAM in the management console and click IAM users in the left n
 
 <img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/91fd28d6-802c-4a48-895d-5760a7442918" />
 
-On the users page, click on the user requiring programmatic access
+On the users page, click on the user requiring programmatic access. For this example I will be using Robert
 
-<img width="1920" height="1011" alt="image" src="https://github.com/user-attachments/assets/ac265109-03fc-4d7c-80af-d0700a7edb09" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f26e2881-98c9-47e8-8054-605085874c5a" />
+
+On the user's summary page, under the Security credentials tab scroll down and select Create access key
+
+<img width="1919" height="522" alt="image" src="https://github.com/user-attachments/assets/e1103858-1f22-4716-a4bc-6683a06750c2" />
