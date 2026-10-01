@@ -31,12 +31,23 @@ Open your Command Prompt, enter aws configure, and execute the command
 
 <img width="927" height="639" alt="image" src="https://github.com/user-attachments/assets/519090ed-32af-445d-910e-ebb0c5f30e4c" />
 
-You will then need to provide the access key you previously saved and then press enter
+You will then need to provide the access key you previously saved and then press Enter
 
 <img width="922" height="637" alt="image" src="https://github.com/user-attachments/assets/fcdfdf67-efec-4fd6-9c45-3e3d568d5df3" />
 
-Once that has been executed you must provide your Secret access key and press enter
+Once that has been executed, you must provide your Secret access key and press Enter
 
 <img width="719" height="194" alt="image" src="https://github.com/user-attachments/assets/05c0516c-edfd-4899-baef-a258429a79aa" />
 
-You will then need to provide the default region name
+Next, enter your Default region name and press Enter
+
+Select the AWS region closest to your users. You can find the available regions in the screenshot below
+
+<img width="975" height="1080" alt="image" src="https://github.com/user-attachments/assets/c87f0158-d9de-4050-825f-224147b33209" />
+
+<img width="920" height="246" alt="image" src="https://github.com/user-attachments/assets/31ee17da-7572-4d2b-9cf9-4c79b3281510" />
+
+As for the Default output format, you can just hit Enter to skip, and your AWS CLI is now configured
+
+<img width="929" height="305" alt="image" src="https://github.com/user-attachments/assets/8b7d9ad0-dc0d-4557-99f2-a4ff02aa4df5" />
+
