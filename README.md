@@ -109,3 +109,10 @@ You can also upload and download files within CloudShell. For example if I want 
 
 <img width="600" height="680" alt="image" src="https://github.com/user-attachments/assets/b986b6a9-ba9e-4599-a0e1-4c3797385c1f" />
 
+Copy the output from the pwd command. Select the Download File button, then paste the copied path into the Download File input field. Add /demo.txt to the end of the path to specify the file you want to download. Then press Download to finalize the download process
+
+<img width="957" height="1077" alt="image" src="https://github.com/user-attachments/assets/abe6d5f0-8121-417e-9d90-f6038eff062e" />
+
+<img width="725" height="373" alt="image" src="https://github.com/user-attachments/assets/8d70c4e2-84cb-4804-ac31-11d7f4ca320d" />
+
+
