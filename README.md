@@ -60,3 +60,8 @@ Your output should list all the users in your account
 <img width="723" height="332" alt="image" src="https://github.com/user-attachments/assets/21ba6f5e-3e29-4ed0-8c52-a81241cbdeeb" />
 
 The screenshot above displays information for the AWS IAM user named Robert, including his user ID, Amazon Resource Name (ARN), account creation date, and the date his password was last used. This information is similar to what you would see in the AWS Management Console
+
+Now, if I were to remove Robert from the admin group and run the same command, the output I would now receive would throw an error 
+
+<img width="1109" height="283" alt="image" src="https://github.com/user-attachments/assets/e65cbb70-0de9-4386-b036-7c810eda2efc" />
+
