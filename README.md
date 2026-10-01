@@ -19,3 +19,6 @@ You should then be given six options for the access key use case. Select Command
 
 <img width="1177" height="280" alt="image" src="https://github.com/user-attachments/assets/cff99577-8949-42ae-aba6-fd405de1fdbf" />
 
+Enter an optional description tag to track usage, then click Create access key
+
+<img width="1920" height="833" alt="image" src="https://github.com/user-attachments/assets/a56e7c05-a824-409a-97a8-0c8958671442" />
