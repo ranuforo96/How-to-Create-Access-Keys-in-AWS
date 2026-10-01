@@ -23,7 +23,15 @@ Enter an optional description tag to track usage, then click Create access key
 
 <img width="1920" height="833" alt="image" src="https://github.com/user-attachments/assets/a56e7c05-a824-409a-97a8-0c8958671442" />
 
-Your Access key and your Secret access key should now be displayed
+Your Access key and your Secret access key should now be displayed. Copy both the Access key ID and Secret access key, or click Download .csv file. Store them in a secure password manager or secrets vault—once you exit this screen, AWS will never show the secret key again
 
 <img width="1920" height="558" alt="image" src="https://github.com/user-attachments/assets/71172009-00f8-4474-ba8a-e1e7b5542474" />
+
+Open your Command Prompt, enter aws configure, and execute the command
+
+<img width="927" height="639" alt="image" src="https://github.com/user-attachments/assets/519090ed-32af-445d-910e-ebb0c5f30e4c" />
+
+You will then need to provide the access key you previously saved and then press enter 
+
+<img width="922" height="637" alt="image" src="https://github.com/user-attachments/assets/fcdfdf67-efec-4fd6-9c45-3e3d568d5df3" />
 
