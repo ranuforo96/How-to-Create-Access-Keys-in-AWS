@@ -122,3 +122,11 @@ Another CloudShell FEATURE:
 You can access CloudShell configuration options by selecting Settings, located to the right of the Actions drop-down menu. From there, you can adjust the font size, switch between light and dark themes, and enable or disable the Safe Paste feature
 
 <img width="1917" height="789" alt="image" src="https://github.com/user-attachments/assets/4e615556-f039-4139-a103-8275e0566d5f" />
+
+The last FEATURE: 
+
+The New Tab feature in AWS CloudShell allows you to open another CloudShell terminal session without closing your current session. You can access this feature from the Actions drop-down menu
+
+<img width="1920" height="588" alt="image" src="https://github.com/user-attachments/assets/f1baac77-f970-44f7-aa86-dbfbe586b51c" />
+
+<img width="1920" height="586" alt="image" src="https://github.com/user-attachments/assets/955af066-cfea-43c5-867a-d18b8b4f6dfc" />
