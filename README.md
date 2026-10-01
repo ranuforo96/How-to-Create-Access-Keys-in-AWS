@@ -41,7 +41,7 @@ Once that has been executed, you must provide your Secret access key and press E
 
 Next, enter your Default region name and press Enter
 
-Select the AWS region closest to your users. You can find the available regions in the screenshot below
+Select the AWS region closest to your user. You can find the available regions in the screenshot below
 
 <img width="975" height="1080" alt="image" src="https://github.com/user-attachments/assets/c87f0158-d9de-4050-825f-224147b33209" />
 
