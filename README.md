@@ -58,3 +58,5 @@ This can be tested by typing in this command: aws iam list-users
 Your output should list all the users in your account
 
 <img width="723" height="332" alt="image" src="https://github.com/user-attachments/assets/21ba6f5e-3e29-4ed0-8c52-a81241cbdeeb" />
+
+The screenshot above displays information for the AWS IAM user named Robert, including his user ID, Amazon Resource Name (ARN), account creation date, and the date his password was last used. This information is similar to what you would see in the AWS Management Console
