@@ -104,3 +104,8 @@ Files created in your Cloud Shell environment, such as demo.txt, will persist ev
 <img width="968" height="1080" alt="image" src="https://github.com/user-attachments/assets/d9a0583c-397a-4a74-9c41-a62d7dcd4b7b" />
 
 <img width="958" height="1073" alt="image" src="https://github.com/user-attachments/assets/f016a705-3a63-4036-8569-43477006c2cf" />
+
+You can also upload and download files within CloudShell. For example if I want to get the full path to my file I would type the pwd command
+
+<img width="594" height="673" alt="image" src="https://github.com/user-attachments/assets/8451232b-efa0-4ea7-b145-c8714ccde4ce" />
+
