@@ -31,7 +31,12 @@ Open your Command Prompt, enter aws configure, and execute the command
 
 <img width="927" height="639" alt="image" src="https://github.com/user-attachments/assets/519090ed-32af-445d-910e-ebb0c5f30e4c" />
 
-You will then need to provide the access key you previously saved and then press enter 
+You will then need to provide the access key you previously saved and then press enter
 
 <img width="922" height="637" alt="image" src="https://github.com/user-attachments/assets/fcdfdf67-efec-4fd6-9c45-3e3d568d5df3" />
 
+Once that has been executed you must provide your Secret access key and press enter
+
+<img width="719" height="194" alt="image" src="https://github.com/user-attachments/assets/05c0516c-edfd-4899-baef-a258429a79aa" />
+
+You will then need to provide the default region name
