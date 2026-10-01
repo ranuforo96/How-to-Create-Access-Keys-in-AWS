@@ -66,3 +66,19 @@ Now, if I were to remove Robert from the admin group and run the same command, t
 <img width="1109" height="283" alt="image" src="https://github.com/user-attachments/assets/e65cbb70-0de9-4386-b036-7c810eda2efc" />
 
 This further confirms that the permissions configured through the AWS CLI are the same permissions that can be managed through the IAM console
+
+SECURITY NOTE: IAM Access Keys are static long-term credentials used for external tools (like AWS CLI on Windows). If you only need to run AWS CLI commands without storing keys on your PC, use AWS CloudShell directly in the browser; it requires zero access key management
+
+The AWS CloudShell icon is located on the top dark navigation bar, immediately to the right of the Search bar
+
+<img width="689" height="105" alt="image" src="https://github.com/user-attachments/assets/c8de18a5-706b-42b7-93a4-a624b50bfe93" />
+
+Clicking it opens an interactive terminal to run commands
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c0fbbec6-59fc-4bc1-8ba0-16604f67eaca" />
+
+In the image below I tested aws iam list-users to contrast CloudShell and local CLI functionality
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/705f207a-f5f4-4139-8cff-1c9e20926405" />
+
+As seen above, we get the same results as the AWS CLI
