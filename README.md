@@ -22,3 +22,8 @@ You should then be given six options for the access key use case. Select Command
 Enter an optional description tag to track usage, then click Create access key
 
 <img width="1920" height="833" alt="image" src="https://github.com/user-attachments/assets/a56e7c05-a824-409a-97a8-0c8958671442" />
+
+Your Access key and your Secret access key should now be displayed
+
+<img width="1920" height="558" alt="image" src="https://github.com/user-attachments/assets/71172009-00f8-4474-ba8a-e1e7b5542474" />
+
