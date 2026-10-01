@@ -71,6 +71,8 @@ SECURITY NOTE: IAM Access Keys are static long-term credentials used for externa
 
 The AWS CloudShell icon is located on the top dark navigation bar, immediately to the right of the Search bar
 
+However, AWS CloudShell is not available in all regions, but you can check which regions it is available in by searching for CloudShell availability regions on Google
+
 <img width="689" height="105" alt="image" src="https://github.com/user-attachments/assets/c8de18a5-706b-42b7-93a4-a624b50bfe93" />
 
 Clicking it opens an interactive terminal to run commands
