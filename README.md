@@ -51,3 +51,10 @@ As for the Default output format, you can just hit Enter to skip, and your AWS C
 
 <img width="929" height="305" alt="image" src="https://github.com/user-attachments/assets/8b7d9ad0-dc0d-4557-99f2-a4ff02aa4df5" />
 
+This can be tested by typing in this command: aws iam list-users
+
+<img width="1103" height="100" alt="image" src="https://github.com/user-attachments/assets/f94bef46-358a-4428-9bef-e2bd7c219e54" />
+
+Your output should list all the users in your account
+
+<img width="723" height="332" alt="image" src="https://github.com/user-attachments/assets/21ba6f5e-3e29-4ed0-8c52-a81241cbdeeb" />
