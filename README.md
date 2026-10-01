@@ -115,4 +115,10 @@ Copy the output from the pwd command. Select the Download File button, then past
 
 <img width="725" height="373" alt="image" src="https://github.com/user-attachments/assets/8d70c4e2-84cb-4804-ac31-11d7f4ca320d" />
 
+Vice versa, you can also upload documents into your CloudShell environments
 
+Another CloudShell FEATURE:
+
+You can access CloudShell configuration options by selecting Settings, located to the right of the Actions drop-down menu. From there, you can adjust the font size, switch between light and dark themes, and enable or disable the Safe Paste feature
+
+<img width="1917" height="789" alt="image" src="https://github.com/user-attachments/assets/4e615556-f039-4139-a103-8275e0566d5f" />
