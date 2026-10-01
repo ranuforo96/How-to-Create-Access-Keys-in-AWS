@@ -61,7 +61,8 @@ Your output should list all the users in your account
 
 The screenshot above displays information for the AWS IAM user named Robert, including his user ID, Amazon Resource Name (ARN), account creation date, and the date his password was last used. This information is similar to what you would see in the AWS Management Console
 
-Now, if I were to remove Robert from the admin group and run the same command, the output I would now receive would throw an error 
+Now, if I were to remove Robert from the admin group and run the same command, the output I would now receive would throw an error due to a lack of permissions
 
 <img width="1109" height="283" alt="image" src="https://github.com/user-attachments/assets/e65cbb70-0de9-4386-b036-7c810eda2efc" />
 
+This further confirms that the permissions configured through the AWS CLI are the same permissions that can be managed through the IAM console
