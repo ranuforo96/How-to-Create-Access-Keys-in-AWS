@@ -13,3 +13,9 @@ On the user's summary page, under the Security credentials tab scroll down and s
 
 <img width="1919" height="522" alt="image" src="https://github.com/user-attachments/assets/e1103858-1f22-4716-a4bc-6683a06750c2" />
 
+You should then be given six options for the access key use case. Select Command Line Interface (CLI), check the recommendation acknowledgment box, and click Next
+
+<img width="802" height="635" alt="image" src="https://github.com/user-attachments/assets/04e53c1a-b580-479e-a6ca-5c40a8e5eab6" />
+
+<img width="1176" height="258" alt="image" src="https://github.com/user-attachments/assets/3cce0f25-3385-4e05-8454-27ca8f1d4b7d" />
+
