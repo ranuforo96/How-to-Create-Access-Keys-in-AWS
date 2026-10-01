@@ -79,8 +79,28 @@ Clicking it opens an interactive terminal to run commands
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c0fbbec6-59fc-4bc1-8ba0-16604f67eaca" />
 
-In the image below I tested aws iam list-users to contrast CloudShell and local CLI functionality
+In the image below, I tested aws iam list-users to contrast CloudShell and local CLI functionality
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/705f207a-f5f4-4139-8cff-1c9e20926405" />
 
 As seen above, we get the same results as the AWS CLI
+
+CloudShell FEATURES:
+
+CREATE AND MANAGE FILES. Currently, there are no files in CloudShell. We can verfiy by executing the ls comand
+
+<img width="954" height="1067" alt="image" src="https://github.com/user-attachments/assets/6892cd52-ac81-46c0-810d-2975dc2856ae" />
+
+However, running (echo "test" > demo.txt) creates a file named demo.txt and writes the word test into it
+
+<img width="956" height="1067" alt="image" src="https://github.com/user-attachments/assets/dd93b929-e202-402f-a605-9e56147311a7" />
+
+The cat command displays the contents of a file directly in the terminal. In this case, test will be displayed as seen in the image below
+
+<img width="957" height="1078" alt="image" src="https://github.com/user-attachments/assets/bafd5dbc-747a-479a-bf08-fa64a52a82b1" />
+
+Files created in your Cloud Shell environment, such as demo.txt, will persist even if you restart your session
+
+<img width="968" height="1080" alt="image" src="https://github.com/user-attachments/assets/d9a0583c-397a-4a74-9c41-a62d7dcd4b7b" />
+
+<img width="958" height="1073" alt="image" src="https://github.com/user-attachments/assets/f016a705-3a63-4036-8569-43477006c2cf" />
