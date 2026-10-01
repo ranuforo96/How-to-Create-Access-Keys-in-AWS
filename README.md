@@ -17,5 +17,5 @@ You should then be given six options for the access key use case. Select Command
 
 <img width="802" height="635" alt="image" src="https://github.com/user-attachments/assets/04e53c1a-b580-479e-a6ca-5c40a8e5eab6" />
 
-<img width="1176" height="258" alt="image" src="https://github.com/user-attachments/assets/3cce0f25-3385-4e05-8454-27ca8f1d4b7d" />
+<img width="1177" height="280" alt="image" src="https://github.com/user-attachments/assets/cff99577-8949-42ae-aba6-fd405de1fdbf" />
 
